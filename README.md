@@ -4,5 +4,5 @@ PHP, HTML/CSS, JS, jQuery, Vue.js, Bitrix, SQL, etc.</p><p align='left'> 👤 Yo
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Sadovikow alt=Sadovikow /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)](https://github.com/Sadovikow/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadovikow&layout=compact)](https://github.com/Sadovikow/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Sadovikow&theme=blue-green)](https://github.com/Sadovikow/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadovikow&layout=compact)](https://github.com/Sadovikow/github-readme-stats)
 
