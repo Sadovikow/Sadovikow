@@ -1,5 +1,5 @@
 ## Hey 👋, This is Sergey Sadovikov
-[![Gmail Badge](https://img.shields.io/badge/-sadovikow-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadovikow)](mailto:sadovikow) [![Github Badge](https://img.shields.io/badge/-Sadovikow-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Sadovikow/)](https://www.github.com/Sadovikow/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Sadovikow/)](https://github.com/Sadovikow/) <p align='left'>🛠 Languages and Tools:</p>
+[![Gmail Badge](https://img.shields.io/badge/-sadovikow-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadovikow)](mailto:sadovikow) [![Github Badge](https://img.shields.io/badge/-Sadovikow-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Sadovikow/)](https://www.github.com/Sadovikow/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Sadovikow/)](https://github.com/Sadovikow/) <p align='left'>🛠 <b>Languages and Tools:</b></p>
 <p align='left'>- PHP7/8, Composer, Docker, 1C-Bitrix</p>
 <p align='left'>- RabbitMQ, ElasticSearch, MySQL, Couchbase</p>
 <p align='left'>- HTML/CSS (less, scss), JavaScript, jQuery, Vue.js</p>
